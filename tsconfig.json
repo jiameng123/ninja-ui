@@ -1,0 +1,42 @@
+{
+    "compilerOptions": {
+        "outDir": "build/lib",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "target": "esnext",
+        "lib": ["es5", "es6", "es7", "es2017", "dom"],
+        "sourceMap": true,
+        "allowJs": false,
+        "jsx": "react",
+        "strict": true,
+        "rootDirs": ["src", "docs"],
+        "declarationDir": "build/types",
+        "declaration": true,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitThis": true,
+        "noImplicitAny": false,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "strictNullChecks": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "noFallthroughCasesInSwitch": true,
+        "allowSyntheticDefaultImports": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "typeRoots": [
+            "node_modules/@types",
+
+        ]
+    },
+    "include": [
+        "src/**/*",
+        "docs/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "dist",
+        "build",
+        "scripts"
+    ]
+}

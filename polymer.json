@@ -1,0 +1,9 @@
+{
+  "shell": "ninja-ui.js",
+  "npm": true,
+  "lint": {
+    "rules": [
+      "polymer-3"
+    ]
+  }
+}
