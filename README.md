@@ -40,4 +40,4 @@ Sources of this storybook (with React components) [tuchk4/storybook-readme/packa
 
 - Issues and suggestions [storybook-readme/issues](https://github.com/tuchk4/storybook-readme/issues). You are welcome to suggest to awesome feature or report an annoying bug.
 
-- tuchk4](https://twitter.com/tuchk)
+- [tuchk4](https://twitter.com/tuchk)
