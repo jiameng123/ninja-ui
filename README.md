@@ -24,10 +24,10 @@ Your first, most important task when starting out is to define the rules of your
 ### Install
 yarn install  
 
-### DevDevelopment model 
+### Development mode 
 yarn dev
 
-### Docz for production mode
+### Production mode
 yarn build
 
 See the package.json scripts field for more scripts.
