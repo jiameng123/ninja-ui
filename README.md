@@ -24,10 +24,10 @@ Your first, most important task when starting out is to define the rules of your
 ### Install
 yarn install  
 
-### DevDevelopment model 
+### Development mode 
 yarn dev
 
-### Docz for production mode
+### Production mode
 yarn build
 
 See the package.json scripts field for more scripts.
@@ -41,4 +41,7 @@ Sources of this storybook (with React components) [tuchk4/storybook-readme/packa
 - Issues and suggestions [storybook-readme/issues](https://github.com/tuchk4/storybook-readme/issues). You are welcome to suggest to awesome feature or report an annoying bug.
 
 - [tuchk4](https://twitter.com/tuchk)
+<<<<<<< HEAD
 
+=======
+>>>>>>> b2eaa7c1bdb744f37a63e5d485324c45150d5a37
