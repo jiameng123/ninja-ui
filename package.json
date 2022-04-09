@@ -6,7 +6,7 @@
   "browser": "dist/ninja-ui.umd.js",
   "dependencies": {
     "lit-element": "^2.2.1",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",
